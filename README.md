@@ -8,7 +8,7 @@ A custom AI assistant for Company X that answers questions about:
 ## Setup
 
 1. Install dependencies:
-```bash
+
 npm install
 
 2. Create .env file:
